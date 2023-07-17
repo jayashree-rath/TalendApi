@@ -11,6 +11,26 @@
   <modules>
     <module>code/beans</module>
     <module>code/routines</module>
+    <module>jobs/process/Testjob/apitest_0.1</module>
+    <module>jobs/process/Testjob/policyrestapi_0.1</module>
+    <module>jobs/routes/ErrorHandler/contextscopeerrorhandler_0.1</module>
+    <module>jobs/routes/ErrorHandler/routescopeerrorhandler_0.1</module>
+    <module>jobs/routes/JMStoHTTP/jmstohttp_0.1</module>
+    <module>jobs/routes/JMStoHTTP/receivefromjms_0.1</module>
+    <module>jobs/routes/JMStoHTTP/sendtojms_0.1</module>
+    <module>jobs/routes/MQ/mqmultireceiver_0.1</module>
+    <module>jobs/routes/MQ/mqmultisender_0.1</module>
+    <module>jobs/routes/contentbasedrouting_0.1</module>
+    <module>jobs/routes/demoresourceroute_0.1</module>
+    <module>jobs/routes/demorestclientroute_0.1</module>
+    <module>jobs/routes/demorestroute_0.1</module>
+    <module>jobs/routes/directsedademo_0.1</module>
+    <module>jobs/routes/resttosoap_0.1</module>
+    <module>jobs/routes/serviceproxy_0.1</module>
+    <module>jobs/routes/simpleloadbalancer_0.1</module>
+    <module>jobs/routes/simplerecipientlist_0.1</module>
+    <module>jobs/routes/soaptorest_0.1</module>
+    <module>jobs/routes/vmspringdemo_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
