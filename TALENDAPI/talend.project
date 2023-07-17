@@ -4,4 +4,5 @@
     <migrationTask xmi:id="_frkPYCSyEe6uscSDVai1Nw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_fpLpwCSyEe6uscSDVai1Nw" login="jayashree.rath@nfr.keyrus.com" firstName="Jayashree" lastName="Rath" type="DQ"/>
+  <TalendProperties:User xmi:id="_fbU-gCSzEe6DHJxkyKzjlg" login="jayashree.rath@keyrus.com"/>
 </xmi:XMI>
