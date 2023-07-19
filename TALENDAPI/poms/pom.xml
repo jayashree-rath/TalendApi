@@ -25,6 +25,8 @@
     <module>jobs/routes/demorestclientroute_0.1</module>
     <module>jobs/routes/demorestroute_0.1</module>
     <module>jobs/routes/directsedademo_0.1</module>
+    <module>jobs/routes/restapi_demo_0.1</module>
+    <module>jobs/routes/restapi_demo_cloudwatch_0.1</module>
     <module>jobs/routes/resttosoap_0.1</module>
     <module>jobs/routes/serviceproxy_0.1</module>
     <module>jobs/routes/simpleloadbalancer_0.1</module>
